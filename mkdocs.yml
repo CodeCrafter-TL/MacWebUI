@@ -209,14 +209,11 @@ extra: # 额外设定
     - icon: fontawesome/brands/github
       link: https://github.com/CodeCrafter-TL/MacWebUI/
       name: GitHub 存储库
-    - icon: fontawesome/brands/python
-      link: https://pypi.org/project/MacWebUI/
-      name: PyPI
     - icon: fontawesome/brands/bilibili
       link: https://space.bilibili.com/498105668
       name: 哔哩哔哩
     - icon: fontawesome/solid/paper-plane
-      link: mailto:2951256653@qq.com
+      link: mailto:1825456084@qq.com
       name: 联系作者
   consent:
     actions:
